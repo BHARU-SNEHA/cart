@@ -1,0 +1,88 @@
+{
+    "products":[
+      
+        {
+            "id":1,
+            "name":"Beanie",
+            "price":45,
+            "category":"Accessories",
+            "product_stock":30,
+            "quantity":0,
+            "amount":0
+        },
+        {
+            "id":2,
+            "name":"Orange beanie",
+            "price":45,
+            "category":"Accessories",
+            "product_stock":30,
+            "quantity":0,
+            "amount":0
+
+        },
+        {
+            "id":3,
+            "name":"Skinny Jeans",
+            "price":45,
+            "category":"Accessories",
+            "product_stock":30,
+            "quantity":0,
+            "amount":0
+        },
+        {
+            "id":4,
+            "name":"Sun Glasses",
+            "price":45,
+            "category":"Accessories",
+            "product_stock":30,
+            "quantity":0,
+            "amount":0
+        },
+        {
+            "id":5,
+            "name":"Ethnic",
+            "price":150,
+            "category":"Accessories",
+            "product_stock":50,
+            "quantity":0,
+            "amount":0
+        },
+        {
+            "id":6,
+            "name":"Belt",
+            "price":90,
+            "category":"Accessories",
+            "product_stock":100,
+            "quantity":0,
+            "amount":0
+        },
+        {
+            "id":7,
+            "name":"Shoe",
+            "price":200,
+            "category":"Accessories",
+            "product_stock":20,
+            "quantity":0,
+            "amount":0
+        },
+        {
+            "id":8,
+            "name":"Glass",
+            "price":85,
+            "category":"Accessories",
+            "product_stock":10,
+            "quantity":0,
+            "amount":0
+        },
+        {
+            "id":9,
+            "name":"Earings",
+            "price":70,
+            "category":"Accessories",
+            "product_stock":50,
+            "quantity":0,
+            "amount":0
+        }
+
+    ]
+}
